@@ -1,7 +1,6 @@
 # coding=utf-8
 #this is programme
 
-fdsf
 def rollback(stac):
     if len(stack) == 0:
         return 0, 0
