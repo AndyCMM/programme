@@ -2,7 +2,7 @@
 
 
 
-
+gsdgsdgfs
 def rollback(stac):
     if len(stack) == 0:
         return 0, 0
