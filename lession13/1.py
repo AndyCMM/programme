@@ -1,5 +1,5 @@
 # coding=utf-8
-#this is programmer
+#this is programme
 def rollback(stac):
     if len(stack) == 0:
         return 0, 0
