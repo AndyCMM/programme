@@ -31,4 +31,4 @@ for i in range(n):
     b = B[i]
     c = gcd(a, b)
     if divise(a / c, c) and divise(b / c, c):
-        num += 1
+        num   += 1
