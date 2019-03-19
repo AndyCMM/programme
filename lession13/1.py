@@ -1,7 +1,10 @@
 # coding=utf-8
-#this is programme
-this is
+# this is programme
+# This is new
+
+
 def rollback(stac):
+
     if len(stack) == 0:
         return 0, 0
     start, bushu = stac.pop()
@@ -12,6 +15,7 @@ def rollback(stac):
     return step, start
 
 
+print('我是数个')
 A = [0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0]
 L = len(A) + 1
 n = len(A)
@@ -53,10 +57,3 @@ while True:
 
 
 print(min(num))
-
-
-
-
-
-
-
